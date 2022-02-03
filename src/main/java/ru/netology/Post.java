@@ -1,3 +1,5 @@
+package ru.netology;
+
 public class Post {
     public FormDate birthday;
     public String name;
